@@ -1,6 +1,7 @@
 ## Olá sou Marcelo Vinicius!, criador de conteúdo de programação e tecnologia!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciuswoz&show_icons=true&theme=transparent)
+[![social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelovns/)
 
 
 <div style="display: inline_block"><br>
